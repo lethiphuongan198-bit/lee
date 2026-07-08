@@ -1,0 +1,6 @@
+{
+  "name": "Cỏ Mềm - Mỹ phẩm Thiên nhiên",
+  "description": "Landing Page giới thiệu thương hiệu mỹ phẩm thiên nhiên Cỏ Mềm - Lành từ cỏ, Đẹp từ tâm, được thiết kế sang trọng, chuẩn UX/UI dành cho bài tập Truyền thông đa phương tiện.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
